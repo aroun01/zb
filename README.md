@@ -1,2 +1,2 @@
-# zb
-ZB templates
+# Zabbix server and agent templates
+
